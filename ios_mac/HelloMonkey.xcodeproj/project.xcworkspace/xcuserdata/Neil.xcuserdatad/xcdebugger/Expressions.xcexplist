@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "monkey::Pivot3D::setRotation(float, float, float):Pivot3D.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "_transform">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "monkey::Pivot3D::getRotationZ(bool):Pivot3D.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "_tempVec30">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "monkey::Matrix3DUtils::setRotation(monkey::Matrix3D&amp;, float, float, float):Matrix3DUtils.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "v[1]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "monkey::Matrix3D::decompose(monkey::Matrix3D::Style, monkey::Vector3D*) const:Matrix3D.cpp">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

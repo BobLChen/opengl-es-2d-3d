@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Monkey IOS.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<true/>
+			<key>orderHint</key>
+			<integer>6</integer>
+		</dict>
+		<key>MonkeyLib IOS.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>MonkeyLib Mac.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>box2d ios.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>5</integer>
+		</dict>
+		<key>box2d mac.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
+		<key>chipmunk Ios.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>6</integer>
+		</dict>
+		<key>chipmunk Mac.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>7</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>282718F919DA76DC00B2F054</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>2827190919DA772100B2F054</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>288F168319DAAA210095DF6A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>288F169219DAAA890095DF6A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>288F169C19DAAA890095DF6A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>288F1E4019DAAD5F0095DF6A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>288F1E4A19DAAD5F0095DF6A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>288F1E8E19DAAE5C0095DF6A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>288FF79419DA82E00095DF6A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>288FF79E19DA82E00095DF6A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>288FF7FC19DA899C0095DF6A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>288FF80619DA899C0095DF6A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>288FF83719DA8D0A0095DF6A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
